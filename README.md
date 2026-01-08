@@ -1,2 +1,2 @@
-# C-Programs
-My C++ program practice and DSA practice
+# C++ Programs
+My C++ program practice and DSA practice.
