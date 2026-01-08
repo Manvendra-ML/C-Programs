@@ -1,5 +1,4 @@
 #include<iostream>
-#include<
 #include<vector>
 using namespace std;
  void search( const vector<int>& arr , int data);
@@ -37,5 +36,4 @@ void search ( const vector<int>& arr, int data)
     }}
     else 
         cout << "-1";
-    cin.get();
 }
